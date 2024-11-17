@@ -9,6 +9,7 @@ Currently, Godot is the prospective engine for SS15
 # Plans
 This area is to list out development plans, and give a clear checklist for features.
 Long term goals begin with a *, and are major features in the coming development. 
+
 *No UI required for interaction
     -Hacking is done by hand, on a door
     -Other interactions in the form of buttons and button combinations
