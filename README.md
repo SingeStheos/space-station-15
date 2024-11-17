@@ -14,11 +14,16 @@ Long term goals begin with a *, and are major features in the coming development
     -Hacking is done by hand, on a door
     -Other interactions in the form of buttons and button combinations
     -Talking and inventory have UI
+
 *Combat is FPS-like, with a crosshair and bullet spread cones.
     -Potential weapon rebalance(?)
+
 *3D movement, multiple floors for station
+
 *Advanced graphics techniques like PBR, maints dust, and rays.
+
 Possible tool to bypass needing Godot engine to develop content
+
 *SS13 Codebase approach to servers 
 
 # How to Contribute
